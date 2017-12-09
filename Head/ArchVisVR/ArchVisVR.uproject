@@ -48,5 +48,9 @@
 			"Name": "PhysXVehicles",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor",
+		"AllDesktop"
 	]
 }
